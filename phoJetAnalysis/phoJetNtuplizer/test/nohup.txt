@@ -1,0 +1,1668 @@
+nohup: ignoring input
+	--- egmGsfElectronIDs:heepElectronID-HEEPV70 added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V1-loose added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V1-medium added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V1-tight added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V1-veto added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-noIso-V1-wp80 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-noIso-V1-wp90 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-noIso-V1-wpLoose added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V1-wp80 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V1-wp90 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V1-wpLoose added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Summer16-80X-V1-loose added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Summer16-80X-V1-medium added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Summer16-80X-V1-tight added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Summer16-80X-V1-veto added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Spring16-GeneralPurpose-V1-wp80 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Spring16-GeneralPurpose-V1-wp90 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Spring16-HZZ-V1-wpLoose added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V2-loose added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V2-medium added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V2-tight added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V2-veto added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-noIso-V2-wp80 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-noIso-V2-wp90 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-noIso-V2-wpLoose added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V2-wp80 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V2-wp90 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V2-wpHZZ added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V2-wpLoose added to patElectrons
+	--- egmPhotonIDs:cutBasedPhotonID-Fall17-94X-V1-loose added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Fall17-94X-V1-medium added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Fall17-94X-V1-tight added to patPhotons
+	--- egmPhotonIDs:mvaPhoID-RunIIFall17-v1p1-wp80 added to patPhotons
+	--- egmPhotonIDs:mvaPhoID-RunIIFall17-v1p1-wp90 added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Spring16-V2p2-loose added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Spring16-V2p2-medium added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Spring16-V2p2-tight added to patPhotons
+	--- egmPhotonIDs:mvaPhoID-Spring16-nonTrig-V1-wp80 added to patPhotons
+	--- egmPhotonIDs:mvaPhoID-Spring16-nonTrig-V1-wp90 added to patPhotons
+	--- egmPhotonIDs:mvaPhoID-RunIIFall17-v2-wp80 added to patPhotons
+	--- egmPhotonIDs:mvaPhoID-RunIIFall17-v2-wp90 added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Fall17-94X-V2-loose added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Fall17-94X-V2-medium added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Fall17-94X-V2-tight added to patPhotons
+28-Feb-2023 12:15:11 CST  Initiating request to open file file:/afs/hep.wisc.edu/home/bsahu/ZPB_sample/0A041F28-3303-EB11-BFA0-98039B3B0036.root
+28-Feb-2023 12:15:12 CST  Successfully opened file file:/afs/hep.wisc.edu/home/bsahu/ZPB_sample/0A041F28-3303-EB11-BFA0-98039B3B0036.root
+genLumiHeaderToken_ : InputTag:  label = generator, instance = 
+coming inside lumi block:   
+ the model name configDesc: MonoHtott_ZpBaryonic_MZp300_MChi150_TuneCP2_13TeV-madgraph-pythia8
+comig inside model
+model at beginning : MonoHtott_ZpBaryonic_MZp300_MChi150_TuneCP2_13TeV-madgraph-pythia8
+model: MonoHtott_ZpBaryonic_MZp300_MChi150_TuneCP2_13TeV-madgraph-pythia8
+MZp MZp 300
+MChi MChi 150
+fileds1 MZp fields1 300
+fileds2 MChi fields2 150
+merge 300150
+Begin processing the 1st record. Run 1, Event 10046005, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:03.206 CST
+3  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+2  
+1  
+3  
+1  
+Begin processing the 11th record. Run 1, Event 10046014, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:09.528 CST
+3  
+2  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+Begin processing the 21st record. Run 1, Event 10046025, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:10.583 CST
+1  
+1  
+1  
+3  
+3  
+1  
+3  
+3  
+1  
+3  
+3  
+3  
+3  
+1  
+1  
+1  
+3  
+3  
+1  
+3  
+Begin processing the 31st record. Run 1, Event 10046030, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:12.261 CST
+1  
+1  
+3  
+3  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+3  
+1  
+3  
+1  
+1  
+3  
+1  
+1  
+1  
+3  
+Begin processing the 41st record. Run 1, Event 10046041, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:14.022 CST
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+3  
+3  
+1  
+3  
+3  
+1  
+1  
+Begin processing the 51st record. Run 1, Event 10046051, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:15.296 CST
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+3  
+Begin processing the 61st record. Run 1, Event 10046062, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:16.625 CST
+1  
+3  
+1  
+1  
+3  
+1  
+1  
+3  
+3  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+Begin processing the 71st record. Run 1, Event 10046076, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:17.972 CST
+3  
+3  
+3  
+1  
+1  
+3  
+3  
+1  
+1  
+3  
+3  
+Begin processing the 81st record. Run 1, Event 10046081, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:19.195 CST
+3  
+1  
+1  
+2  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+Begin processing the 91st record. Run 1, Event 10046092, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:20.444 CST
+2  
+1  
+3  
+1  
+3  
+1  
+3  
+3  
+1  
+1  
+1  
+1  
+Begin processing the 101st record. Run 1, Event 10046104, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:21.625 CST
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+3  
+3  
+1  
+1  
+Begin processing the 111th record. Run 1, Event 10046112, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:22.992 CST
+1  
+1  
+2  
+2  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+2  
+Begin processing the 121st record. Run 1, Event 10046126, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:24.051 CST
+3  
+3  
+1  
+1  
+1  
+1  
+1  
+3  
+3  
+1  
+3  
+1  
+Begin processing the 131st record. Run 1, Event 10046131, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:25.221 CST
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+3  
+3  
+3  
+1  
+3  
+2  
+1  
+Begin processing the 141st record. Run 1, Event 10046142, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:26.709 CST
+1  
+3  
+1  
+3  
+2  
+2  
+1  
+1  
+3  
+3  
+3  
+2  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+3  
+1  
+2  
+1  
+Begin processing the 151st record. Run 1, Event 10046153, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:28.482 CST
+3  
+1  
+1  
+1  
+3  
+1  
+3  
+1  
+1  
+1  
+1  
+Begin processing the 161st record. Run 1, Event 10046162, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:29.609 CST
+1  
+1  
+1  
+3  
+3  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+Begin processing the 171st record. Run 1, Event 10046172, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:30.836 CST
+3  
+1  
+3  
+1  
+1  
+1  
+1  
+3  
+3  
+1  
+3  
+1  
+1  
+3  
+3  
+3  
+Begin processing the 181st record. Run 1, Event 10046171, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:32.392 CST
+1  
+1  
+1  
+1  
+2  
+1  
+2  
+3  
+3  
+1  
+1  
+1  
+1  
+3  
+1  
+Begin processing the 191st record. Run 1, Event 10046184, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:33.893 CST
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+3  
+Begin processing the 201st record. Run 1, Event 10046205, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:35.396 CST
+1  
+3  
+3  
+1  
+1  
+3  
+1  
+1  
+3  
+3  
+3  
+1  
+1  
+Begin processing the 211th record. Run 1, Event 10046210, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:36.709 CST
+1  
+1  
+1  
+1  
+3  
+3  
+1  
+3  
+3  
+1  
+3  
+1  
+1  
+3  
+3  
+3  
+Begin processing the 221st record. Run 1, Event 10046221, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:38.246 CST
+3  
+1  
+3  
+1  
+1  
+2  
+1  
+1  
+3  
+3  
+1  
+1  
+1  
+1  
+Begin processing the 231st record. Run 1, Event 10046234, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:39.650 CST
+1  
+3  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+Begin processing the 241st record. Run 1, Event 10046239, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:40.565 CST
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+2  
+1  
+1  
+Begin processing the 251st record. Run 1, Event 10046257, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:41.745 CST
+1  
+2  
+1  
+1  
+3  
+2  
+1  
+3  
+3  
+1  
+1  
+1  
+1  
+1  
+3  
+Begin processing the 261st record. Run 1, Event 10046263, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:43.060 CST
+3  
+2  
+1  
+1  
+1  
+1  
+3  
+1  
+2  
+1  
+3  
+2  
+2  
+1  
+1  
+1  
+Begin processing the 271st record. Run 1, Event 10046276, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:44.611 CST
+3  
+3  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+2  
+1  
+3  
+1  
+Begin processing the 281st record. Run 1, Event 10046262, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:45.968 CST
+3  
+1  
+1  
+2  
+1  
+3  
+3  
+1  
+3  
+1  
+1  
+3  
+Begin processing the 291st record. Run 1, Event 10046295, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:47.299 CST
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+3  
+Begin processing the 301st record. Run 1, Event 10046306, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:48.456 CST
+1  
+3  
+3  
+3  
+3  
+3  
+1  
+1  
+3  
+1  
+3  
+Begin processing the 311th record. Run 1, Event 10046312, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:49.603 CST
+1  
+2  
+1  
+1  
+3  
+2  
+2  
+2  
+1  
+3  
+3  
+1  
+3  
+3  
+1  
+1  
+3  
+1  
+3  
+Begin processing the 321st record. Run 1, Event 10046325, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:51.356 CST
+1  
+1  
+1  
+1  
+1  
+2  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+Begin processing the 331st record. Run 1, Event 10046324, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:52.944 CST
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+2  
+3  
+1  
+3  
+1  
+1  
+Begin processing the 341st record. Run 1, Event 10046341, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:54.329 CST
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+2  
+1  
+1  
+1  
+1  
+3  
+2  
+Begin processing the 351st record. Run 1, Event 10046357, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:55.754 CST
+1  
+1  
+3  
+1  
+3  
+1  
+1  
+1  
+2  
+1  
+3  
+3  
+1  
+1  
+3  
+1  
+1  
+Begin processing the 361st record. Run 1, Event 10046358, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:57.276 CST
+1  
+1  
+3  
+1  
+1  
+1  
+3  
+3  
+1  
+3  
+3  
+3  
+3  
+3  
+1  
+Begin processing the 371st record. Run 1, Event 10046374, LumiSection 10047 on stream 0 at 28-Feb-2023 12:16:58.715 CST
+3  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+Begin processing the 381st record. Run 1, Event 10046383, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:00.052 CST
+1  
+3  
+1  
+1  
+3  
+1  
+3  
+1  
+1  
+1  
+3  
+Begin processing the 391st record. Run 1, Event 10046395, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:01.206 CST
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+2  
+2  
+1  
+1  
+1  
+3  
+Begin processing the 401st record. Run 1, Event 10046404, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:02.413 CST
+1  
+1  
+3  
+3  
+1  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+Begin processing the 411th record. Run 1, Event 10046414, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:03.749 CST
+1  
+3  
+1  
+3  
+3  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+Begin processing the 421st record. Run 1, Event 10046419, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:05.150 CST
+3  
+1  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+3  
+1  
+3  
+3  
+1  
+3  
+1  
+1  
+3  
+1  
+Begin processing the 431st record. Run 1, Event 10046422, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:06.757 CST
+3  
+1  
+1  
+1  
+1  
+1  
+3  
+3  
+1  
+1  
+3  
+1  
+2  
+3  
+1  
+1  
+1  
+Begin processing the 441st record. Run 1, Event 10046411, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:08.185 CST
+3  
+3  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+Begin processing the 451st record. Run 1, Event 10046453, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:09.854 CST
+1  
+1  
+3  
+3  
+1  
+1  
+2  
+1  
+1  
+1  
+1  
+1  
+Begin processing the 461st record. Run 1, Event 10046465, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:11.079 CST
+1  
+1  
+1  
+3  
+3  
+3  
+1  
+1  
+3  
+1  
+3  
+3  
+1  
+1  
+1  
+1  
+3  
+Begin processing the 471st record. Run 1, Event 10046472, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:12.403 CST
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+2  
+1  
+1  
+1  
+1  
+3  
+3  
+Begin processing the 481st record. Run 1, Event 10046486, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:13.779 CST
+3  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+Begin processing the 491st record. Run 1, Event 10046498, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:14.724 CST
+1  
+3  
+2  
+1  
+3  
+2  
+1  
+3  
+1  
+3  
+3  
+3  
+1  
+1  
+1  
+Begin processing the 501st record. Run 1, Event 10046504, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:16.086 CST
+3  
+1  
+1  
+2  
+3  
+1  
+3  
+1  
+1  
+1  
+3  
+1  
+1  
+Begin processing the 511th record. Run 1, Event 10046514, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:17.403 CST
+1  
+1  
+3  
+3  
+2  
+3  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+Begin processing the 521st record. Run 1, Event 10046517, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:18.690 CST
+1  
+3  
+1  
+1  
+1  
+2  
+3  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+3  
+1  
+1  
+Begin processing the 531st record. Run 1, Event 10046535, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:20.189 CST
+2  
+3  
+1  
+1  
+3  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+Begin processing the 541st record. Run 1, Event 10046542, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:21.463 CST
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+3  
+1  
+3  
+1  
+1  
+1  
+1  
+2  
+Begin processing the 551st record. Run 1, Event 10046555, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:22.660 CST
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+3  
+3  
+1  
+Begin processing the 561st record. Run 1, Event 10046562, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:23.825 CST
+3  
+1  
+1  
+1  
+3  
+3  
+1  
+1  
+3  
+1  
+1  
+3  
+Begin processing the 571st record. Run 1, Event 10046572, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:25.137 CST
+3  
+1  
+1  
+1  
+1  
+3  
+1  
+2  
+2  
+2  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+3  
+Begin processing the 581st record. Run 1, Event 10046583, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:26.815 CST
+3  
+1  
+1  
+3  
+1  
+3  
+2  
+1  
+3  
+1  
+3  
+3  
+1  
+1  
+1  
+1  
+Begin processing the 591st record. Run 1, Event 10046599, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:28.173 CST
+3  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+1  
+2  
+Begin processing the 601st record. Run 1, Event 10046605, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:29.432 CST
+1  
+1  
+3  
+3  
+1  
+1  
+3  
+3  
+1  
+2  
+2  
+1  
+3  
+1  
+3  
+1  
+3  
+2  
+1  
+1  
+Begin processing the 611th record. Run 1, Event 10046611, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:31.079 CST
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+3  
+Begin processing the 621st record. Run 1, Event 10046627, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:32.319 CST
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+Begin processing the 631st record. Run 1, Event 10046632, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:33.338 CST
+1  
+3  
+1  
+1  
+1  
+3  
+1  
+1  
+3  
+2  
+3  
+1  
+1  
+3  
+1  
+1  
+3  
+Begin processing the 641st record. Run 1, Event 10046637, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:34.816 CST
+3  
+1  
+1  
+2  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+1  
+3  
+3  
+Begin processing the 651st record. Run 1, Event 10046650, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:36.135 CST
+3  
+1  
+1  
+2  
+1  
+1  
+1  
+1  
+1  
+2  
+1  
+2  
+1  
+1  
+3  
+2  
+Begin processing the 661st record. Run 1, Event 10046666, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:37.610 CST
+1  
+1  
+1  
+2  
+3  
+1  
+1  
+1  
+1  
+3  
+3  
+1  
+3  
+3  
+1  
+1  
+3  
+1  
+1  
+1  
+Begin processing the 671st record. Run 1, Event 10046674, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:39.360 CST
+1  
+2  
+1  
+1  
+3  
+3  
+3  
+1  
+2  
+1  
+1  
+1  
+1  
+3  
+3  
+Begin processing the 681st record. Run 1, Event 10046684, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:40.845 CST
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+3  
+1  
+Begin processing the 691st record. Run 1, Event 10046695, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:42.140 CST
+3  
+1  
+3  
+2  
+3  
+1  
+3  
+1  
+1  
+1  
+3  
+1  
+Begin processing the 701st record. Run 1, Event 10046702, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:43.326 CST
+1  
+1  
+1  
+1  
+3  
+3  
+1  
+1  
+1  
+1  
+1  
+Begin processing the 711th record. Run 1, Event 10046712, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:44.520 CST
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+2  
+Begin processing the 721st record. Run 1, Event 10046729, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:45.841 CST
+1  
+1  
+1  
+3  
+1  
+1  
+3  
+1  
+2  
+3  
+1  
+3  
+3  
+1  
+3  
+1  
+1  
+2  
+Begin processing the 731st record. Run 1, Event 10046724, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:47.424 CST
+1  
+1  
+3  
+3  
+3  
+1  
+1  
+1  
+1  
+3  
+3  
+2  
+1  
+3  
+1  
+3  
+1  
+3  
+3  
+3  
+1  
+1  
+Begin processing the 741st record. Run 1, Event 10046743, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:49.375 CST
+1  
+2  
+1  
+2  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+Begin processing the 751st record. Run 1, Event 10046755, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:50.721 CST
+1  
+3  
+1  
+1  
+3  
+1  
+1  
+1  
+3  
+3  
+3  
+1  
+3  
+3  
+1  
+3  
+3  
+3  
+Begin processing the 761st record. Run 1, Event 10046758, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:52.246 CST
+1  
+1  
+1  
+1  
+3  
+1  
+3  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+2  
+1  
+3  
+1  
+1  
+2  
+1  
+Begin processing the 771st record. Run 1, Event 10046770, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:53.885 CST
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+Begin processing the 781st record. Run 1, Event 10046780, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:55.014 CST
+2  
+1  
+1  
+1  
+2  
+3  
+3  
+2  
+1  
+3  
+1  
+1  
+3  
+1  
+1  
+Begin processing the 791st record. Run 1, Event 10046792, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:56.458 CST
+3  
+1  
+1  
+2  
+1  
+1  
+1  
+3  
+Begin processing the 801st record. Run 1, Event 10046799, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:57.448 CST
+2  
+1  
+1  
+1  
+1  
+3  
+1  
+1  
+3  
+3  
+1  
+1  
+2  
+2  
+1  
+2  
+Begin processing the 811th record. Run 1, Event 10046812, LumiSection 10047 on stream 0 at 28-Feb-2023 12:17:58.878 CST
+1  
+1  
+3  
+1  
+1  
+2  
+1  
+2  
+1  
+1  
+3  
+3  
+1  
+1  
+Begin processing the 821st record. Run 1, Event 10046823, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:00.266 CST
+1  
+1  
+3  
+3  
+1  
+3  
+1  
+1  
+3  
+1  
+1  
+3  
+3  
+1  
+1  
+2  
+1  
+Begin processing the 831st record. Run 1, Event 10046827, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:01.672 CST
+1  
+3  
+1  
+2  
+1  
+1  
+2  
+1  
+1  
+1  
+1  
+1  
+1  
+2  
+3  
+2  
+1  
+2  
+Begin processing the 841st record. Run 1, Event 10046828, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:03.059 CST
+1  
+3  
+1  
+1  
+1  
+1  
+2  
+1  
+1  
+Begin processing the 851st record. Run 1, Event 10046851, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:04.130 CST
+1  
+1  
+3  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+Begin processing the 861st record. Run 1, Event 10046868, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:05.222 CST
+3  
+1  
+1  
+1  
+1  
+3  
+1  
+3  
+3  
+1  
+1  
+3  
+1  
+2  
+3  
+3  
+1  
+3  
+1  
+Begin processing the 871st record. Run 1, Event 10046871, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:06.753 CST
+1  
+1  
+3  
+3  
+3  
+1  
+1  
+1  
+3  
+3  
+1  
+1  
+Begin processing the 881st record. Run 1, Event 10046881, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:08.028 CST
+3  
+2  
+1  
+1  
+1  
+3  
+3  
+1  
+3  
+1  
+1  
+1  
+1  
+3  
+1  
+3  
+3  
+2  
+3  
+1  
+Begin processing the 891st record. Run 1, Event 10046880, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:09.872 CST
+3  
+1  
+1  
+1  
+3  
+1  
+1  
+2  
+1  
+1  
+2  
+3  
+Begin processing the 901st record. Run 1, Event 10046909, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:11.207 CST
+1  
+1  
+1  
+3  
+1  
+3  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+3  
+1  
+1  
+3  
+1  
+1  
+Begin processing the 911th record. Run 1, Event 10046918, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:16.827 CST
+1  
+1  
+3  
+3  
+1  
+1  
+1  
+3  
+1  
+3  
+3  
+1  
+1  
+1  
+1  
+3  
+1  
+Begin processing the 921st record. Run 1, Event 10046924, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:18.412 CST
+1  
+1  
+1  
+3  
+3  
+3  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+Begin processing the 931st record. Run 1, Event 10046927, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:19.538 CST
+1  
+1  
+3  
+3  
+1  
+1  
+1  
+1  
+Begin processing the 941st record. Run 1, Event 10046945, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:20.483 CST
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+2  
+1  
+1  
+Begin processing the 951st record. Run 1, Event 10046938, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:21.613 CST
+3  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+Begin processing the 961st record. Run 1, Event 10046957, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:22.677 CST
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+Begin processing the 971st record. Run 1, Event 10046967, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:23.785 CST
+1  
+3  
+3  
+2  
+2  
+1  
+1  
+1  
+1  
+1  
+1  
+3  
+1  
+Begin processing the 981st record. Run 1, Event 10046978, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:25.056 CST
+1  
+1  
+2  
+1  
+1  
+1  
+3  
+1  
+3  
+1  
+1  
+1  
+1  
+Begin processing the 991st record. Run 1, Event 10046990, LumiSection 10047 on stream 0 at 28-Feb-2023 12:18:26.239 CST
+1  
+1  
+3  
+1  
+1  
+3  
+1  
+1  
+1  
+3  
+1  
+1  
+1  
+1  
+coming inside lumi block:   
+ the model name configDesc: MonoHtott_ZpBaryonic_MZp200_MChi50_TuneCP2_13TeV-madgraph-pythia8
+comig inside model
+model at beginning : MonoHtott_ZpBaryonic_MZp200_MChi50_TuneCP2_13TeV-madgraph-pythia8
+model: MonoHtott_ZpBaryonic_MZp200_MChi50_TuneCP2_13TeV-madgraph-pythia8
+MZp MZp 200
+MChi MChi 50
+fileds1 MZp fields1 200
+fileds2 MChi fields2 50
+merge 20050
+Begin processing the 1001st record. Run 1, Event 10074005, LumiSection 10075 on stream 0 at 28-Feb-2023 12:18:27.604 CST
+1  
+1  
+1  
+28-Feb-2023 12:18:27 CST  Closed file file:/afs/hep.wisc.edu/home/bsahu/ZPB_sample/0A041F28-3303-EB11-BFA0-98039B3B0036.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             1        1
+    2 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostGlobalEndRun                  
+    2 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  3                   3
+
+dropped waiting message count 0

@@ -1,0 +1,140 @@
+nohup: ignoring input
+	--- egmGsfElectronIDs:heepElectronID-HEEPV70 added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V1-loose added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V1-medium added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V1-tight added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V1-veto added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-noIso-V1-wp80 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-noIso-V1-wp90 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-noIso-V1-wpLoose added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V1-wp80 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V1-wp90 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V1-wpLoose added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Summer16-80X-V1-loose added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Summer16-80X-V1-medium added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Summer16-80X-V1-tight added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Summer16-80X-V1-veto added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Spring16-GeneralPurpose-V1-wp80 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Spring16-GeneralPurpose-V1-wp90 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Spring16-HZZ-V1-wpLoose added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V2-loose added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V2-medium added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V2-tight added to patElectrons
+	--- egmGsfElectronIDs:cutBasedElectronID-Fall17-94X-V2-veto added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-noIso-V2-wp80 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-noIso-V2-wp90 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-noIso-V2-wpLoose added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V2-wp80 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V2-wp90 added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V2-wpHZZ added to patElectrons
+	--- egmGsfElectronIDs:mvaEleID-Fall17-iso-V2-wpLoose added to patElectrons
+	--- egmPhotonIDs:cutBasedPhotonID-Fall17-94X-V1-loose added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Fall17-94X-V1-medium added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Fall17-94X-V1-tight added to patPhotons
+	--- egmPhotonIDs:mvaPhoID-RunIIFall17-v1p1-wp80 added to patPhotons
+	--- egmPhotonIDs:mvaPhoID-RunIIFall17-v1p1-wp90 added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Spring16-V2p2-loose added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Spring16-V2p2-medium added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Spring16-V2p2-tight added to patPhotons
+	--- egmPhotonIDs:mvaPhoID-Spring16-nonTrig-V1-wp80 added to patPhotons
+	--- egmPhotonIDs:mvaPhoID-Spring16-nonTrig-V1-wp90 added to patPhotons
+	--- egmPhotonIDs:mvaPhoID-RunIIFall17-v2-wp80 added to patPhotons
+	--- egmPhotonIDs:mvaPhoID-RunIIFall17-v2-wp90 added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Fall17-94X-V2-loose added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Fall17-94X-V2-medium added to patPhotons
+	--- egmPhotonIDs:cutBasedPhotonID-Fall17-94X-V2-tight added to patPhotons
+19-Feb-2023 11:36:35 CST  Initiating request to open file file:/afs/hep.wisc.edu/home/bsahu/ZPB_sample/0A041F28-3303-EB11-BFA0-98039B3B0036.root
+19-Feb-2023 11:36:36 CST  Successfully opened file file:/afs/hep.wisc.edu/home/bsahu/ZPB_sample/0A041F28-3303-EB11-BFA0-98039B3B0036.root
+coming inside lumi block:   
+ the model name configDesc: MonoHtott_ZpBaryonic_MZp300_MChi150_TuneCP2_13TeV-madgraph-pythia8
+comig inside model
+model at beginning : MonoHtott_ZpBaryonic_MZp300_MChi150_TuneCP2_13TeV-madgraph-pythia8
+model: MonoHtott_ZpBaryonic_MZp300_MChi150_TuneCP2_13TeV-madgraph-pythia8
+MZp MZp 300
+MChi MChi 150
+fileds1 MZp fields1 300
+fileds2 MChi fields2 150
+merge 300150
+Begin processing the 1st record. Run 1, Event 10046005, LumiSection 10047 on stream 0 at 19-Feb-2023 11:39:42.073 CST
+3  
+1  
+genEventInfoHandle->signalProcessID() :  9999genEventInfoHandle->weight()  :  1
+%MSG-w phoJetNtuplizer:  phoJetNtuplizer:phoJetNtuplizer  19-Feb-2023 11:39:49 CST Run: 1 Event: 10046005
+no lheEventProduct info in event at lheEventProduct.isValid()   
+%MSG
+1  
+3  
+genEventInfoHandle->signalProcessID() :  9999genEventInfoHandle->weight()  :  1
+%MSG-w phoJetNtuplizer:  phoJetNtuplizer:phoJetNtuplizer  19-Feb-2023 11:39:49 CST Run: 1 Event: 10046001
+no lheEventProduct info in event at lheEventProduct.isValid()   
+%MSG
+genEventInfoHandle->signalProcessID() :  9999genEventInfoHandle->weight()  :  1
+%MSG-w phoJetNtuplizer:  phoJetNtuplizer:phoJetNtuplizer  19-Feb-2023 11:39:49 CST Run: 1 Event: 10046008
+no lheEventProduct info in event at lheEventProduct.isValid()   
+%MSG
+1  
+1  
+genEventInfoHandle->signalProcessID() :  9999genEventInfoHandle->weight()  :  1
+%MSG-w phoJetNtuplizer:  phoJetNtuplizer:phoJetNtuplizer  19-Feb-2023 11:39:49 CST Run: 1 Event: 10046004
+no lheEventProduct info in event at lheEventProduct.isValid()   
+%MSG
+1  
+genEventInfoHandle->signalProcessID() :  9999genEventInfoHandle->weight()  :  1
+%MSG-w phoJetNtuplizer:  phoJetNtuplizer:phoJetNtuplizer  19-Feb-2023 11:39:49 CST Run: 1 Event: 10046006
+no lheEventProduct info in event at lheEventProduct.isValid()   
+%MSG
+genEventInfoHandle->signalProcessID() :  9999genEventInfoHandle->weight()  :  1
+%MSG-w phoJetNtuplizer:  phoJetNtuplizer:phoJetNtuplizer  19-Feb-2023 11:39:49 CST Run: 1 Event: 10046002
+no lheEventProduct info in event at lheEventProduct.isValid()   
+%MSG
+1  
+genEventInfoHandle->signalProcessID() :  9999genEventInfoHandle->weight()  :  1
+%MSG-w phoJetNtuplizer:  phoJetNtuplizer:phoJetNtuplizer  19-Feb-2023 11:39:50 CST Run: 1 Event: 10046007
+no lheEventProduct info in event at lheEventProduct.isValid()   
+%MSG
+
+
+A fatal system signal has occurred: segmentation violation
+The following is the call stack containing the origin of the signal.
+
+Thread 3 (Thread 0x7fb6b78b9700 (LWP 3223780)):
+#0  0x00007fb6f50cda35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+#1  0x00007fb6f56adcec in __gthread_cond_wait (__mutex=<optimized out>, __cond=<optimized out>) at /build/cmsbld/auto-builds/CMSSW_10_1_0_pre2-slc7_amd64_gcc700/build/CMSSW_10_1_0_pre2-build/BUILD/slc7_amd64_gcc700/external/gcc/7.0.0-omkpbe2/gcc-branches_gcc-7-branch-257125/obj/x86_64-unknown-linux-gnu/libstdc++-v3/include/x86_64-unknown-linux-gnu/bits/gthr-default.h:864
+#2  std::condition_variable::wait (this=<optimized out>, __lock=...) at ../../../../../libstdc++-v3/src/c++11/condition_variable.cc:53
+#3  0x00007fb6c27fc7f2 in Eigen::NonBlockingThreadPoolTempl<tensorflow::thread::EigenEnvironment>::WorkerLoop(int) () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/external/slc7_amd64_gcc700/lib/libtensorflow_framework.so
+#4  0x00007fb6c27f9fd7 in std::_Function_handler<void (), tensorflow::thread::EigenEnvironment::CreateThread(std::function<void ()>)::{lambda()#1}>::_M_invoke(std::_Any_data const&) () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/external/slc7_amd64_gcc700/lib/libtensorflow_framework.so
+#5  0x00007fb6f56b38ff in std::execute_native_thread_routine (__p=0x7fb6bbb88fd0) at ../../../../../libstdc++-v3/src/c++11/thread.cc:83
+#6  0x00007fb6f50c9ea5 in start_thread () from /lib64/libpthread.so.0
+#7  0x00007fb6f4df2b0d in clone () from /lib64/libc.so.6
+Thread 2 (Thread 0x7fb6de531700 (LWP 3222707)):
+#0  0x00007fb6f50d11d9 in waitpid () from /lib64/libpthread.so.0
+#1  0x00007fb6ef5defc7 in edm::service::cmssw_stacktrace_fork() () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/pluginFWCoreServicesPlugins.so
+#2  0x00007fb6ef5dfaaa in edm::service::InitRootHandlers::stacktraceHelperThread() () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/pluginFWCoreServicesPlugins.so
+#3  0x00007fb6f56b38ff in std::execute_native_thread_routine (__p=0x7fb6de85b900) at ../../../../../libstdc++-v3/src/c++11/thread.cc:83
+#4  0x00007fb6f50c9ea5 in start_thread () from /lib64/libpthread.so.0
+#5  0x00007fb6f4df2b0d in clone () from /lib64/libc.so.6
+Thread 1 (Thread 0x7fb6f34b8480 (LWP 3222671)):
+#0  0x00007fb6f4de7ddd in poll () from /lib64/libc.so.6
+#1  0x00007fb6ef5df4f7 in full_read.constprop () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/pluginFWCoreServicesPlugins.so
+#2  0x00007fb6ef5dfb8c in edm::service::InitRootHandlers::stacktraceFromThread() () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/pluginFWCoreServicesPlugins.so
+#3  0x00007fb6ef5e0bf9 in sig_dostack_then_abort () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/pluginFWCoreServicesPlugins.so
+#4  <signal handler called>
+#5  0x0000000000000000 in ?? ()
+#6  0x00007fb6f7bf9b2a in edm::one::EDAnalyzerBase::doEvent(edm::EventPrincipal const&, edm::EventSetup const&, edm::ActivityRegistry*, edm::ModuleCallingContext const*) () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/libFWCoreFramework.so
+#7  0x00007fb6f7b35f92 in edm::WorkerT<edm::one::EDAnalyzerBase>::implDo(edm::EventPrincipal const&, edm::EventSetup const&, edm::ModuleCallingContext const*) () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/libFWCoreFramework.so
+#8  0x00007fb6f7aca19a in decltype ({parm#1}()) edm::convertException::wrap<bool edm::Worker::runModule<edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1> >(edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1>::MyPrincipal const&, edm::EventSetup const&, edm::StreamID, edm::ParentContext const&, edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1>::Context const*)::{lambda()#1}>(bool edm::Worker::runModule<edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1> >(edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1>::MyPrincipal const&, edm::EventSetup const&, edm::StreamID, edm::ParentContext const&, edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1>::Context const*)::{lambda()#1}) () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/libFWCoreFramework.so
+#9  0x00007fb6f7aca35d in bool edm::Worker::runModule<edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1> >(edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1>::MyPrincipal const&, edm::EventSetup const&, edm::StreamID, edm::ParentContext const&, edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1>::Context const*) () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/libFWCoreFramework.so
+#10 0x00007fb6f7acba7b in std::__exception_ptr::exception_ptr edm::Worker::runModuleAfterAsyncPrefetch<edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1> >(std::__exception_ptr::exception_ptr const*, edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1>::MyPrincipal const&, edm::EventSetup const&, edm::StreamID, edm::ParentContext const&, edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1>::Context const*) () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/libFWCoreFramework.so
+#11 0x00007fb6f7acd165 in void edm::SerialTaskQueueChain::actionToRun<edm::Worker::RunModuleTask<edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1> >::execute()::{lambda()#1}&>(edm::Worker::RunModuleTask<edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1> >::execute()::{lambda()#1}&) () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/libFWCoreFramework.so
+#12 0x00007fb6f7acd221 in edm::SerialTaskQueue::QueuedTask<void edm::SerialTaskQueueChain::push<edm::Worker::RunModuleTask<edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1> >::execute()::{lambda()#1}&>(edm::Worker::RunModuleTask<edm::OccurrenceTraits<edm::EventPrincipal, (edm::BranchActionType)1> >::execute()::{lambda()#1}&)::{lambda()#1}>::execute() () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/libFWCoreFramework.so
+#13 0x00007fb6f6428466 in tbb::internal::custom_scheduler<tbb::internal::IntelSchedulerTraits>::local_wait_for_all (this=0x7fb6f1ce7200, parent=..., child=<optimized out>) at ../../src/tbb/custom_scheduler.h:509
+#14 0x00007fb6f7b90eb1 in edm::EventProcessor::processLumis(std::shared_ptr<void> const&) () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/libFWCoreFramework.so
+#15 0x00007fb6f7b9a20a in edm::EventProcessor::runToCompletion() () from /cvmfs/cms.cern.ch/slc7_amd64_gcc700/cms/cmssw/CMSSW_10_2_18/lib/slc7_amd64_gcc700/libFWCoreFramework.so
+#16 0x000000000040eafb in main::{lambda()#1}::operator()() const ()
+#17 0x000000000040d2c2 in main ()
+
+Current Modules:
+
+Module: phoJetNtuplizer:phoJetNtuplizer (crashed)
+
+A fatal system signal has occurred: segmentation violation
